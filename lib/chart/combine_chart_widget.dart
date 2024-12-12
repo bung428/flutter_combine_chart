@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_combine_chart/chart/chart_data_group.dart';
+import 'package:flutter_combine_chart/models/chart_data_group.dart';
 
 class AppChartWidget extends StatelessWidget {
   final double? width;
